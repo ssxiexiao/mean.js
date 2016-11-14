@@ -4,7 +4,6 @@
       let vm = this;
       vm.data = {};
       vm.data.name = 'MEAN.JS';
-      console.log($scope);
     }
   }
   angular.module(app.applicationModuleName)
